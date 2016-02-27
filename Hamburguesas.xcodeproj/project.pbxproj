@@ -12,6 +12,8 @@
 		924A2FF41C81912C00B1E212 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 924A2FF21C81912C00B1E212 /* Main.storyboard */; };
 		924A2FF61C81912C00B1E212 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 924A2FF51C81912C00B1E212 /* Assets.xcassets */; };
 		924A2FF91C81912C00B1E212 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 924A2FF71C81912C00B1E212 /* LaunchScreen.storyboard */; };
+		924A30011C81915800B1E212 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924A30001C81915800B1E212 /* Datos.swift */; };
+		924A30031C8193FC00B1E212 /* Colores.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924A30021C8193FC00B1E212 /* Colores.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		924A2FF51C81912C00B1E212 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		924A2FF81C81912C00B1E212 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		924A2FFA1C81912C00B1E212 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		924A30001C81915800B1E212 /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		924A30021C8193FC00B1E212 /* Colores.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colores.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				924A2FF51C81912C00B1E212 /* Assets.xcassets */,
 				924A2FF71C81912C00B1E212 /* LaunchScreen.storyboard */,
 				924A2FFA1C81912C00B1E212 /* Info.plist */,
+				924A30001C81915800B1E212 /* Datos.swift */,
+				924A30021C8193FC00B1E212 /* Colores.swift */,
 			);
 			path = Hamburguesas;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			files = (
 				924A2FF11C81912C00B1E212 /* ViewController.swift in Sources */,
 				924A2FEF1C81912C00B1E212 /* AppDelegate.swift in Sources */,
+				924A30011C81915800B1E212 /* Datos.swift in Sources */,
+				924A30031C8193FC00B1E212 /* Colores.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
